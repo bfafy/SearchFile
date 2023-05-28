@@ -1,4 +1,7 @@
 # SearchFile
+
+# 点击右边下载exe文件
+
 # 人编写的一个py程序，用于从网上下载的cms修改一些东西
 ![image](https://github.com/bfafy/SearchFile/assets/130436561/07dc358d-79fa-4095-80de-25f3432c73b9)
 # 入查询内容和查询的文件夹
